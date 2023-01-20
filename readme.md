@@ -9,7 +9,7 @@
 You have the jcombobox, and the jtable. So, let initialize 'em all with :
 
 ```
-// 1st example for automatic events
+// 1st example for a simple one
 SimpleFilter sf = new SimpleFilter(true);
 sf.setFilterComponent(combobox);
 sf.setTable(myJTable);
@@ -24,6 +24,7 @@ check the demo below:
 You have several jcomboboxes, and the jtable, of course. So, let initialize 'em too :
 
 ```
+// now as 2nd example with column positioning
 SimpleFilter sf = new SimpleFilter(true);
 sf.setFilterComponents(combobox1, combobox2);
 // matching the position of each column for each comboboxonly
