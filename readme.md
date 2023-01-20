@@ -7,7 +7,7 @@
 # Download
 [Download jar](dist/SimpleFilter.jar)
 
-## Quick -01-
+## Quick Example -01-
 You have the jcombobox, and the jtable. So, let initialize 'em all with :
 
 ```
@@ -22,7 +22,7 @@ check the demo below:
 
 
 
-## Quick -02-
+## Quick Example -02-
 You have several jcomboboxes, and the jtable. So, let initialize 'em too :
 
 ```
