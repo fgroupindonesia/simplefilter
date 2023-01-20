@@ -4,7 +4,7 @@ import fgroupindonesia.swing.SimpleFilter;
 
 
 /**
- *
+ * this is the 1st example
  * @author fgroupindonesia
  */
 public class SimpleFilterDemo extends javax.swing.JFrame {
