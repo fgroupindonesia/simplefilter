@@ -1,9 +1,11 @@
 
-#How To use?
+# How To use?
 
 1. import the Jar under dist\SimpleFilter.jar
 2. use with ease as the following examples
 
+# Download
+[Download jar](dist/SimpleFilter.jar)
 
 ## Quick -01-
 You have the jcombobox, and the jtable. So, let initialize 'em all with :
