@@ -1,6 +1,11 @@
 
 # Real case exposed!
-When java developers tend to use a combobox as its filter mechanism in swing JTable. They need simplification. This library is the answer!
+When java developers tend to use a combobox as its filter mechanism in swing JTable. They need simplification. This yet small library is the answer!
+
+# What are the benefits?
+1. You don't need to curse the for-loop of your own code!
+2. You don't even need to write any if else matching for each components.
+3. You use as the simplicity as it is!
 
 
 # How To use?
