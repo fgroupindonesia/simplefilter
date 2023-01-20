@@ -14,7 +14,7 @@ When java developers tend to use a combobox as its filter mechanism in swing JTa
 2. use with ease as the following examples
 
 # Download
-[Download jar](dist/SimpleFilter.jar)
+[v1.0 -jar](dist/SimpleFilter.jar)
 
 ## Quick Example -01-
 You have the jcombobox, and the jtable. So, let initialize 'em all with :
