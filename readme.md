@@ -1,5 +1,5 @@
 
-# Real case exposed!
+# Real case's exposed!
 When java developers tend to use a combobox as its filter mechanism in swing JTable. They need simplification. This yet small library is the answer!
 
 ## What are the benefits?
