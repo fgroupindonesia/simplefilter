@@ -1,4 +1,8 @@
 
+# Real case exposed!
+When java developers tend to use a combobox as its filter mechanism in swing JTable. They need simplification. This library is the answer!
+
+
 # How To use?
 
 1. import the Jar under dist\SimpleFilter.jar
