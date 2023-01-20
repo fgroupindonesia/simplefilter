@@ -18,7 +18,7 @@ sf.setTable(myJTable);
 ```
 
 # preview
-check the demo below:
+check the demo below: -let me update soon...
 
 
 
@@ -36,8 +36,8 @@ sf.setTable(myJTable);
 
 # screenshot
 take a look of the position here:
-[Preview #02](preview/example02.png)
+![Preview02](preview/example02.png)
 
 
 # preview
-check the demo below:
+check the demo below: -let me update soon...
