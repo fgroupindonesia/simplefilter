@@ -46,4 +46,4 @@ take a look of the position here:
 
 # preview
 check the demo below: 
-![preview-vid](preview/vid.gif)
+![preview-vid](preview/vid2.gif)
