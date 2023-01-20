@@ -21,7 +21,7 @@ check the demo below:
 
 
 ## Quick -02-
-You have several jcomboboxes, and the jtable, of course. So, let initialize 'em too :
+You have several jcomboboxes, and the jtable. So, let initialize 'em too :
 
 ```
 // now as 2nd example with column positioning
