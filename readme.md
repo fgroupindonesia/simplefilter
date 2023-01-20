@@ -26,10 +26,6 @@ sf.setFilterComponent(combobox);
 sf.setTable(myJTable);
 ```
 
-# preview
-check the demo below: -let me update soon...
-
-
 
 ## Quick Example -02-
 You have several jcomboboxes, and the jtable. So, let initialize 'em too :
@@ -49,4 +45,5 @@ take a look of the position here:
 
 
 # preview
-check the demo below: -let me update soon...
+check the demo below: 
+![preview-vid](preview/vid.gif)
