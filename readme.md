@@ -34,6 +34,7 @@ sf.setTable(myJTable);
 
 # screenshot
 take a look of the position here:
+[Preview #02](preview/example02.png)
 
 
 # preview
